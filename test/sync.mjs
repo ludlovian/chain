@@ -43,7 +43,6 @@ test('ending', () => {
   node = node.next()
   assert.equal({ ...node }, { foo: 'bar' })
   node = node.next()
-  console.log(node)
   assert.equal({ ...node }, { done: true })
 
   assert.is(node, node.next())
