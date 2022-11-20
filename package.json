@@ -14,6 +14,6 @@
   "license": "Unlicense",
   "devDependencies": {
     "pixutil": "github:ludlovian/pixutil",
-    "uvu": "^0.5.1"
+    "uvu": "^0.5.6"
   }
 }
